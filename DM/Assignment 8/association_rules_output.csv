@@ -1,0 +1,42 @@
+Antecedent,Consequent,Confidence
+Grapes,Orange,1.0
+Orange,Grapes,0.5
+Orange,Apple,1.0
+Apple,Orange,0.8
+Grapes,Apple,1.0
+Milk,Butter,1.0
+Butter,Milk,0.5
+Butter,Cheese,0.5
+Cheese,Butter,0.6666666666666666
+Butter,Bread,0.5
+Bread,Butter,1.0
+Grapes,"Orange, Apple",1.0
+Orange,"Grapes, Apple",0.5
+"Grapes, Orange",Apple,1.0
+"Grapes, Apple",Orange,1.0
+"Orange, Apple",Grapes,0.5
+Grapes,"Orange, Apple",1.0
+Orange,"Grapes, Apple",0.5
+"Grapes, Orange",Apple,1.0
+"Grapes, Apple",Orange,1.0
+"Orange, Apple",Grapes,0.5
+Orange,"Grapes, Apple",0.5
+Grapes,"Orange, Apple",1.0
+"Grapes, Orange",Apple,1.0
+"Orange, Apple",Grapes,0.5
+"Grapes, Apple",Orange,1.0
+Grapes,"Orange, Apple",1.0
+Orange,"Grapes, Apple",0.5
+"Grapes, Orange",Apple,1.0
+"Grapes, Apple",Orange,1.0
+"Orange, Apple",Grapes,0.5
+Grapes,"Orange, Apple",1.0
+Orange,"Grapes, Apple",0.5
+"Grapes, Orange",Apple,1.0
+"Grapes, Apple",Orange,1.0
+"Orange, Apple",Grapes,0.5
+Grapes,"Orange, Apple",1.0
+Orange,"Grapes, Apple",0.5
+"Grapes, Orange",Apple,1.0
+"Grapes, Apple",Orange,1.0
+"Orange, Apple",Grapes,0.5
